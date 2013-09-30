@@ -1,0 +1,1 @@
+F1 key stereo mode on/off
